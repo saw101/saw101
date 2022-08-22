@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wasay</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
-<h4 align="left">I am Passionate about Data Science and ML with a goal to implement the learnings across industries that will serve the bottom-line business objectives.</h4>
+<h2 align="center">Welcome to my Github Proile!</h2>
+<h4 align="left">I am Passionate about Data Science and ML with a goal to implement my learnings across industries that will serve the bottom-line business objectives.</h4>
 
 <br>
 
